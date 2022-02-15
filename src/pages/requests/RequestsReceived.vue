@@ -1,4 +1,0 @@
-<template>
-    REQUESTS
-</template>
-
